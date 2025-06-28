@@ -57,11 +57,11 @@ yoga-instructor-site/
 ## 📧 Contact
 
 Created by **Bektaş Sarı**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari/)
-ResearchGate: [Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [bektassari](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com) <br>
+GitHub: [bektas-sari](https://github.com/bektas-sari) <br>
+LinkedIn: [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari/) <br>
+ResearchGate: [Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3) <br>
+Academia: [bektassari](https://independent.academia.edu/bektassari) <br>
 
 ## 📄 License
 
