@@ -14,11 +14,10 @@ yoga-instructor-site/
 ├── about.html             # Background, philosophy, and qualifications
 ├── trainings.html         # Yoga training courses and schedules
 ├── contact.html           # Contact form and info section
-├── assets/
-│   ├── css/
-│   │   └── style.css      # Custom responsive stylesheet
-│   ├── js/
-│   │   └── main.js        # JavaScript for form validation and UX
+├── css/
+│   └── style.css      # Custom responsive stylesheet
+├── js/
+│   └── main.js        # JavaScript for form validation and UX
 │   └── images/            # (Optional) Custom images can be placed here
 └── README.md              # Project documentation
 ```
